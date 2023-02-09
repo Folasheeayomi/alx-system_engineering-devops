@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /bin/ls /tmp/_ls_
+In -s /bin/ls _ls_
